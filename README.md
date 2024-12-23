@@ -70,19 +70,5 @@
   <img width="12" />
 </div>
 
-###
-<div align="left">
-
-  <br clear="both">
-  <img src="https://github.com/CorruptedSpring/CorruptedSpring/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31ywbw5dznxacp6tbny6hdaenezm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ywbw5dznxacp6tbny6hdaenezm&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
